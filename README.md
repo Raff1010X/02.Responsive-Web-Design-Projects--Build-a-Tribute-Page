@@ -1,6 +1,6 @@
-# Event Propagation
+# freeCodeCamp Responsive Web Design certification
 
-## Event Propagation example
+## Build a Tribute Page project
 
 Working example: https://raff1010x.github.io/02.Responsive-Web-Design-Projects--Build-a-Tribute-Page/
 
