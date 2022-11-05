@@ -6,13 +6,17 @@ Working example: https://raff1010x.github.io/02.Responsive-Web-Design-Projects--
 
 My git repo: https://github.com/Raff1010X/01.Roadmap
 ##
-<img src="./images/1.png" alt="example image" width="320">
+<img src="./images/1.png" alt="example image" width="100%">
 
 ##
-![example image](./images/2.png)
+<img src="./images/2.png" alt="example image" width="80%">
+
 ##
-![example image](./images/3.png)
+<img src="./images/3.png" alt="example image" width="50%">
+
 ##
-![example image](./images/4.png)
+<img src="./images/4.png" alt="example image" width="50%">
+
 ##
-![example image](./images/5.png)
+<img src="./images/5.png" alt="example image" width="80%">
+
