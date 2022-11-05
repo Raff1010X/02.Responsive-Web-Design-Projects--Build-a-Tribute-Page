@@ -6,17 +6,27 @@ Working example: https://raff1010x.github.io/02.Responsive-Web-Design-Projects--
 
 My git repo: https://github.com/Raff1010X/01.Roadmap
 ##
-<img src="./images/1.png" alt="example image" width="100%">
+<p align="center">
+<img src="./images/1.png" alt="example image" width="100%" style="">
+</p>
 
 ##
+<p align="center">
 <img src="./images/2.png" alt="example image" width="80%">
+</p>
 
 ##
+<p align="center">
 <img src="./images/3.png" alt="example image" width="50%">
+</p>
 
 ##
+<p align="center">
 <img src="./images/4.png" alt="example image" width="50%">
+</p>
 
 ##
-<img src="./images/5.png" alt="example image" width="80%">
+<p align="center">
+<img src="./images/5.png" alt="example image" width="100%">
+</p>
 
