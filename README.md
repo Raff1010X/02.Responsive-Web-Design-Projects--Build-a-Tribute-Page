@@ -1,4 +1,4 @@
-# freeCodeCamp Responsive Web Design certification
+# [freeCodeCamp Responsive Web Design certification](https://www.freecodecamp.org/learn/responsive-web-design/)
 
 ## [Build a Tribute Page project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
