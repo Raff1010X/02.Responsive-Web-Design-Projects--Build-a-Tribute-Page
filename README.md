@@ -6,7 +6,8 @@ Working example: https://raff1010x.github.io/02.Responsive-Web-Design-Projects--
 
 My git repo: https://github.com/Raff1010X/01.Roadmap
 ##
-![example image](./images/1.png)
+<img src="./images/1.png" alt="example image" width="320">
+
 ##
 ![example image](./images/2.png)
 ##
